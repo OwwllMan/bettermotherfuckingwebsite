@@ -1,4 +1,4 @@
-setTimeout(popUp, 5000);
+setTimeout(popUp, 10000);
 
 function popUp(){
     result = window.confirm("Salut mon pote ça va ? tu veux faire un tour sur notre site ? ");
